@@ -1,11 +1,5 @@
 # 🗺️ Problema do Caixeiro Viajante (PCV)
 
-4º Trabalho de Projeto e Análise de Algoritmos  
-**Aluno:** Matheus Kersul Souza Rodrigues  
-**Professor:** Douglas Castilho
-
----
-
 ## 📌 Sobre
 
 Este projeto aborda algoritmos de solução e otimização para o **Problema do Caixeiro Viajante (PCV)**, implementando tanto uma abordagem de solução exata quanto uma heurística evolutiva.
